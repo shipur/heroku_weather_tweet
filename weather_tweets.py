@@ -14,7 +14,7 @@ access_token_secret = "EBRzbimyzUaSOlTVbcWYrdl3nluVfeJ4TwkRObX0UEAcG"
 
 # Weather API
 api_key = "25bc90a1196e6f153eece0bc0b0fc9eb"
-city_list=["London", "Mumbai"]
+city_list=["New York", "Paris"]
 # Create a function that gets the weather in London and Tweets it
 def WeatherTweet(city):
    # Construct a Query URL for the OpenWeatherMap
